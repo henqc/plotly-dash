@@ -8,7 +8,7 @@ from dash import Dash, dcc, html, Input, Output
 from dash_iconify import DashIconify
 
 #Read in csv into a pandas data frame
-df = pd.read_csv("data.csv")
+df = pd.read_csv("data\\data.csv")
 # load the CSS stylesheet
 stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css'] 
 #Initialize the Dash app
