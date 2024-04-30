@@ -1,6 +1,6 @@
 # plotly-dash
 
-Henry Chen, DS 4003
+Henry Chen
 
 App deployed @ https://plotly-dash-hsmk.onrender.com/
 
