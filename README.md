@@ -4,6 +4,8 @@ Henry Chen
 
 App deployed @ https://plotly-dash-hsmk.onrender.com/
 
+THIS WILL TAKE SOME TIME TO LOAD
+
 ## About the Dashboard
 
 This dashboard was created for a persona who is named Lisa. Lisa is a graduate film student interested in the trends in films over time. This dashboard allows Lisa to be able to
